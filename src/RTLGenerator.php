@@ -7,7 +7,6 @@
  * @version 1.0.0
  *
  */
-namespace rtlGenerator;
 use \CSSJanus;
 class rtlGenerator {
     public static $definitions = array(
