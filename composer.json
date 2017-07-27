@@ -1,5 +1,5 @@
 {
-	"name": "iPresta/PrestaShop-cssflip",
+	"name": "ipresta/prestashop-cssflip",
 	"description": "Flip LTR CSS to RTL",
 	"license": "MIT License",
 	"autoload": {
