@@ -1,2 +1,2 @@
-# PrestaShop-cssflip
+# prestashop-cssflip
 Flip LTR CSS to RTL
